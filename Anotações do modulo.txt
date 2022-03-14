@@ -1,0 +1,3 @@
+ SEgue anotaçãoes referentes ao modulo de Git/GitHub
+
+1 Usa-se o Git Bash no terminal para otimizar o Git, nele vc introduz os comandos para a inserção do repositorio.
